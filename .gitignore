@@ -2,9 +2,6 @@
 /node_modules
 /package-lock.json
 
-# build products
-/dist
-
 # coverage
 /.nyc_output
 /coverage
