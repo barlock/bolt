@@ -1,0 +1,1 @@
+{"version":3,"file":"process.d.ts","sourceRoot":"","sources":["../../src/middleware/process.ts"],"names":[],"mappings":"AAAA,OAAO,EACL,UAAU,EACV,iBAAiB,EACE,wBAAwB,EAC5C,MAAM,UAAU,CAAC;AAiClB,wBAAsB,iBAAiB,CACnC,UAAU,EAAE,UAAU,CAAC,iBAAiB,CAAC,EAAE,EAC3C,OAAO,EAAE,wBAAwB,CAAC,iBAAiB,CAAC,GACrD,OAAO,CAAC,OAAO,CAAC,CAMlB"}

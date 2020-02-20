@@ -3,7 +3,7 @@
 /package-lock.json
 
 # build products
-/dist
+#/dist
 
 # coverage
 /.nyc_output
